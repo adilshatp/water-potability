@@ -7,5 +7,7 @@ care costs outweigh the costs of undertaking the interventions.
 
 content:
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.
+The inputs used in the projects are ph_value, hardness, solid, Chloramines,	Sulfate,	Conductivity,	Organic_carbon,	Trihalomethanes,	Turbidity.
+The output in this project is potability.If potability is zero then the water is non drinkable else the water is drinkable. 
 
-In this project i got good accuracy in Light GBM model,so i'm used that model in my project.Deployment done in streamlit method. 
+In this project I got good accuracy in Light GBM model,so i'm used that model in my project.Deployment done in streamlit method. 
