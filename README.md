@@ -19,4 +19,4 @@ Then test the model using the test data set (X_test).Now it’s time to evaluate
 
 
 
-
+![Screenshot (117)](https://user-images.githubusercontent.com/99119200/172815483-feca2c29-ab52-468c-b96d-c6f0f4fe4d92.png)
